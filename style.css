@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color:aliceblue;
+    text-shadow: 0 0 5px rgb(209, 24, 55);
+}
+
+h2{
+    color:beige;
+    text-decoration: underline;
+    text-shadow: 0 0 5px white;
+}
+
+ul>li{
+    color:yellow;
+    text-shadow: white;
+    word-spacing: 5px;
+    height: 40px;
+}
+
+
+body{
+    background-image: url("https://images.unsplash.com/photo-1525720093832-94be50e45177?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+
+}
+
